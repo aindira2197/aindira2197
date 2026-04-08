@@ -15,13 +15,10 @@
 ---
 
 ## 💡 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=400&lines=Welcome+to+my+world+🌸;Glad+you're+here+💖;Let's+create+magic+💻✨" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=420&lines=Welcome+to+my+world+🌸;Glad+you're+here+💖;Let's+create+magic+💻✨" />
-</p>
-
+<img align="right" width="230" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" width="230" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+<img align="right" width="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="230" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif"/>
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 💖 Full Stack Developer  
