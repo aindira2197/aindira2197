@@ -16,9 +16,7 @@
 
 ## 💡 About Me
 
-<img align="right" width="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-
+<img align="right" width="230" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
 - 💖 Full Stack Developer  
 - 🎓 Student in IT Park  
