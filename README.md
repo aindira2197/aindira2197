@@ -1,5 +1,5 @@
 <h1 align="center">
-  💙 <span style="color:#F472B6;"><b>Azadova Indira</b></span>
+  ✨ <span style="color:#F472B6;"><b>Azadova Indira</b></span>
 </h1>
 
 
