@@ -15,11 +15,10 @@
 ---
 
 ## 💡 About Me
-<img align="right" width="230" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
-<img align="right" width="230" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+
 <img align="right" width="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-<img align="right" width="230" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif"/>
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+
 
 - 💖 Full Stack Developer  
 - 🎓 Student in IT Park  
