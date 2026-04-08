@@ -54,16 +54,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aindira2197&show_icons=true&theme=tokyonight&icon_color=F472B6&title_color=A78BFA&border_color=F472B6" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindira2197&layout=compact&theme=tokyonight&title_color=A78BFA&border_color=F472B6" height="180"/>
-</p>
-
----
-
 ## 🔥 Streak Animation
 
 <p align="center">
