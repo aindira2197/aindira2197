@@ -104,7 +104,6 @@
 
 ---
 
-## 🌊 Footer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=120&section=footer"/>
