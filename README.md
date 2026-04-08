@@ -1,12 +1,5 @@
 <h1 align="center">
-  💖 <span style="
-    font-weight: 800;
-    font-size: 40px;
-    color: #F472B6;
-    letter-spacing: 2px;
-  ">
-    Azadova Indira
-  </span>
+  💙 <span style="color:#F472B6;"><b>Azadova Indira</b></span>
 </h1>
 
 
