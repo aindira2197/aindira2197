@@ -1,10 +1,9 @@
 <h1 align="center">
-  💙 <span style="
-    font-weight: 900;
+  💖 <span style="
+    font-weight: 800;
     font-size: 40px;
-    background: linear-gradient(90deg, #38BDF8, #A78BFA, #F472B6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #F472B6;
+    letter-spacing: 2px;
   ">
     Azadova Indira
   </span>
