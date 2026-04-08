@@ -1,18 +1,22 @@
-<h1 align="center">💙 Azadova Indira</h1>
+<h1 align="center">
+  💙 <span style="color:#38BDF8;">Azadova Indira</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flask;Frontend+Lover;Creative+Coder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flask;Frontend+Lover;Creative+Coder;Always+Learning+New+Things" />
 </p>
 
+<!-- NEW small animated welcome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BAE6FD,100:38BDF8&height=180&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile+💙;Glad+to+see+you+here!;Let's+build+something+cool!" />
 </p>
 
 ---
 
 ## 💡 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<!-- NEW girly aesthetic GIF -->
+<img align="right" width="220" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
 - 💙 Full Stack Developer  
 - 🎓 Student in IT Park  
@@ -99,6 +103,12 @@
 </p>
 
 ---
+
+## 🌊 Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=120&section=footer"/>
+</p>
 
 ## 🌊 Footer
 
