@@ -78,13 +78,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aindira2197&theme=tokyo-night&color=F472B6&line=A78BFA&point=FFFFFF"/>
 </p>
 
----
 
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aindira2197/aindira2197/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
