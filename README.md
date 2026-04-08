@@ -1,9 +1,15 @@
 <h1 align="center">
-  💙 <span style="background: linear-gradient(90deg, #38BDF8, #A78BFA, #F472B6); -webkit-background-clip: text; color: transparent;">
+  💙 <span style="
+    font-weight: 900;
+    font-size: 42px;
+    background: linear-gradient(90deg, #38BDF8, #A78BFA, #F472B6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 10px rgba(167,139,250,0.6);
+  ">
     Azadova Indira
   </span>
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flask;Frontend+Lover;Creative+Coder;Always+Learning+New+Things+✨" />
 </p>
