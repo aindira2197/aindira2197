@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aindira2197&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 
