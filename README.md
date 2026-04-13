@@ -13,17 +13,6 @@
 </p>
 
 
-<h1 align="center">
-    <span style="color:#F472B6;"><b>Azadova Indira</b></span>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flask;Frontend+Lover;Creative+Coder;Always+Learning+New+Things+✨" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Welcome+to+my+world+🌸;Glad+you're+here+💖;Let's+create+magic+💻✨" />
-</p>
 
 ---
 
