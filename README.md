@@ -2,7 +2,6 @@
     <span style="color:#F472B6;"><b>Azadova Indira</b></span>
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flask;Frontend+Lover;Creative+Coder;Always+Learning+New+Things+✨" />
 </p>
@@ -23,6 +22,20 @@
 - ⚡ Clean UI + Powerful Backend lover  
 - 🌙 Night coder  
 - 🌸 Love aesthetic & minimal design  
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aindira2197&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindira2197&layout=compact&theme=tokyonight&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aindira2197&theme=tokyonight" />
+</p>
 
 ---
 
@@ -68,8 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aindira2197&theme=tokyo-night&color=F472B6&line=A78BFA&point=FFFFFF"/>
 </p>
 
-
-
 ---
 
 ## 📬 Contact Me
@@ -87,7 +98,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=120&section=footer"/>
