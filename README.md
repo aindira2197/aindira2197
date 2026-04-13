@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aindira2197&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+
 <h1 align="center">
     <span style="color:#F472B6;"><b>Azadova Indira</b></span>
 </h1>
