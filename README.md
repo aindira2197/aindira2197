@@ -38,6 +38,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css&theme=dark" />
+</p>
 
 ## 🚀 Tech Stack
 
