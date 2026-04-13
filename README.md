@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=200&section=header&text=Welcome%20Indira&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">
     <span style="color:#F472B6;"><b>Azadova Indira</b></span>
 </h1>
