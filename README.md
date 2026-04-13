@@ -3,11 +3,14 @@
     background: linear-gradient(90deg,#F472B6,#A78BFA,#38BDF8);
     -webkit-background-clip: text;
     color: transparent;
-    text-shadow: 0 0 20px rgba(244,114,182,0.5);
   ">
     Azadova Indira ✨
   </span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F472B6&center=true&vCenter=true&width=500&lines=Frontend+Lover+💖;Let's+create+magic+💻✨;Clean+UI+%2B+Powerful+Backend;Always+learning+new+things+🌸" />
+</p>
 
 
 <h1 align="center">
