@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aindira2197&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg,#F472B6,#A78BFA,#38BDF8);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 0 0 20px rgba(244,114,182,0.5);
+  ">
+    Azadova Indira ✨
+  </span>
+</h1>
 
 
 <h1 align="center">
