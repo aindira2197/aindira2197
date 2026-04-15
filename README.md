@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F472B6&center=true&vCenter=true&width=500&lines=Frontend+Lover+💖;Let's+create+magic+💻✨;Clean+UI+%2B+Powerful+Backend;Always+learning+new+things+🌸" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aindira2197&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
+</p>
+
 
 
 ---
