@@ -35,10 +35,12 @@
 ---
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindira2197&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aindira2197&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindira2197&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="160"/>
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aindira2197&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
